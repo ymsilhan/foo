@@ -15,3 +15,7 @@ h1 {
     padding: .5rem 1rem;
     background: dodgerblue;
 }
+
+body {
+    background-color: red;
+}
